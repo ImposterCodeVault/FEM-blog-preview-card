@@ -42,6 +42,7 @@ main {
   padding: 24px;
 
   background-color: var(--white);
+  border: solid 2px black;
   border-radius: 20px;
   margin-bottom: 20px;
 
